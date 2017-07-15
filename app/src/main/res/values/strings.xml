@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentProfile</string>
+    <string name="Note">Note :</string>
+    <string name="Disclaimer">The following Information will be made public.</string>
+    <string name="overview">Overview</string>
+    <string name="Dummy">Dummy</string>
+    <string name="Aboutyourself">About yourself</string>
+    <string name="Achievements">Accomplishments</string>
+    <string name="contactinfo">Contact Info</string>
+    <string name="Emailedittext">Email</string>
+    <string name="phonenoEdittext">Phone no.</string>
+    <string name="linkedin">Linkedin</string>
+</resources>
